@@ -11,6 +11,12 @@ Feel free to fork our repository and use it for your own dojo!
 
 ## Running website on local machine
 
+### Install Ruby
+
+Follow [this guide](http://jekyll-windows.juthilo.com/1-ruby-and-devkit/) to install Ruby on Windows
+
+### Run locally
+
 Website using static content generator https://jekyllrb.com
 Please refer to jekyllrb documentation for more details
 

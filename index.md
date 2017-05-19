@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-Welcome to CoderDojo Ardkeen Waterford
+Welcome to Coderdojo Waterford
 
 CoderDojo is a movement orientated around running free not-for-profit coding clubs and regular sessions for young people. At a CoderDojo, young people learn how to code, develop websites, apps, programs, games and more. CoderDojo also puts a strong emphasis on open source and free software, and has a strong network of members and volunteers globally.
 
@@ -38,4 +38,4 @@ See [projects](/project) page for more details.
 <hr>
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
-<img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a> Coder Dojo Ardkeen website is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons License</a>.
+<img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a> Coderdojo Waterford's website is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons License</a>.

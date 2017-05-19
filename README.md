@@ -1,8 +1,6 @@
-# ardkeen.github.io
+# coderdojowaterford.github.io
 
-Ardkeen Coder Dojo Github website source code
-
-[http://metawired.eu/coderdojo](http://metawired.eu/coderdojo/)
+Coderdojo Waterford Github website source code
 
 ## CoderDojo webpage template
 

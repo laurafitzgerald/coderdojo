@@ -1,4 +1,4 @@
-name: Ardkeen Waterford CoderDojo
+name: Coderdojo Waterford
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 paginate: 20
